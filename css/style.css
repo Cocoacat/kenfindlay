@@ -268,5 +268,32 @@ html, body { height: 100%; }
 	.main .sidebar ul li { margin: 0 0 0 0; background: url(images/mobile-section-shadow@2x.png) no-repeat center bottom;  -webkit-background-size: 299px 14px; -moz-background-size: 299px 14px; background-size: 299px 14px; }
 
 
-
-	
+<style type="text/css"> 
+#image-container { 
+  min-width:782px; /* width of 3 images (746px) plus images' padding and border (36px) */ 
+  padding:10px; 
+  border:1px solid #d3d2d2; 
+  background-color:#f0f0f0; 
+ } 
+#image-container img { 
+  padding:5px; 
+  border:1px solid #d3d2d2; 
+  background-color:#fff;  
+ } 
+#image-right { 
+  float:right; 
+  width:250px; 
+  height:49px; 
+ } 
+#image-left { 
+  float:left; 
+  width:250px; 
+  height:36px; 
+ } 
+#image-center { 
+  display:block; 
+  width:246px; 
+  height:59px; 
+  margin:auto; 
+ } 
+</style> 	
