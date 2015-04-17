@@ -297,9 +297,7 @@ html, body { height: 100%; }
   margin:auto; 
  } 
 </style> 	
-article, aside
-.alignright{
-float: left;
-    padding:5px;
-    margin:10px;
+.alignleft {
+    float: left;
+    margin: 4px 0 1px 10px;
 }
