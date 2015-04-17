@@ -298,7 +298,7 @@ html, body { height: 100%; }
  } 
 </style> 	
 article, aside
-{
+.alignright{
 float: left;
     padding:5px;
     margin:10px;
