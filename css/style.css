@@ -297,3 +297,8 @@ html, body { height: 100%; }
   margin:auto; 
  } 
 </style> 	
+article, aside
+{
+    padding:5px;
+    margin:10px;
+}
