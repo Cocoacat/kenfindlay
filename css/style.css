@@ -109,13 +109,13 @@ html, body { height: 100%; }
 .footer-cols { background: url(images/footer-cols.png) repeat-x 0 0; padding: 26px 0; }
 .footer-cols .col { float: left; width: 226px; padding-right: 24px; }
 .footer-cols .col.last { padding-right: 0; }
-.footer-cols h3 { color: #fff; text-shadow: rgba(0,0,0,0.6) 0px 1px 2px; font-size: 21px; line-height: 28px; font-family: 'Ubuntu', sans-serif; font-weight: 500; padding-bottom: 12px; }
+.footer-cols h3 { color: #fff; text-shadow: rgba(0,0,0,0.6) 0px 1px 2px; font-size: 21px; line-height: 28px; font-family: 'Ubuntu', sans-serif; font-weight: 500; padding-bottom: 0px; }
 .footer-cols h3 a { color: #fff; text-shadow: rgba(0,0,0,0.6) 0px 1px 2px; }
 .footer-cols h3 a:hover { text-decoration: none; color: #bdbdbd;  }
 .footer-cols p { color: #fff; }
 .footer-cols p a { color: #fff; }
 .footer-cols ul { list-style: none; list-style-position: outside; }
-.footer-cols ul li { color: #fff; padding-bottom: 6px; padding-left: 9px; background: url(images/bullet-footer-col.png) no-repeat 0 8px; }
+.footer-cols ul li { color: #fff; padding-bottom: 4px; padding-left: 9px; background: url(images/bullet-footer-col.png) no-repeat 0 8px; }
 .footer-cols ul li a { color: #fff; }
 
 .footer-bottom { background: #b3dce6; height: 14px; padding: 22px 0 18px 0; }
