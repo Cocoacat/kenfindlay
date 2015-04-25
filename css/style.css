@@ -255,8 +255,8 @@ html, body { height: 100%; }
 	.footer-cols .col .col-cnt { display: none; }
 	.footer-cols .col.last { padding-right: 0; }
 	.footer-bottom { height: 48px; line-height: 17px; }
-	.footer-bottom .footer-nav { float: none; display: block; text-align: center;  padding-bottom: 16px; font-size: 10px;  }
-	.footer-bottom .footer-nav ul li { padding: 0 4px 0 6px; float: none; display: inline; background-position: 0 2px;  }
+	.footer-bottom .footer-nav { float: none; display: block; text-align: center;  padding-bottom: 20px; font-size: 10px;  }
+	.footer-bottom .footer-nav ul li { padding: 0 2px 0 4px; float: none; display: inline; background-position: 0 2px;  }
 	.footer-bottom  p.copy { float: none; display: block; text-align: center;  clear: both; font-size: 10px;  }
 	.footer-bottom .shell { width: 100%; }
 }
