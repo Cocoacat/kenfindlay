@@ -179,7 +179,7 @@ html, body { height: 100%; }
 	.footer-cols .shell { padding-left: 20px; padding-right: 20px; width: 728px; }
 	.footer-cols .col { width: 166px; padding-right: 20px; }
 	.footer-cols .col.last { padding-right: 0; }
-	.footer-bottom { height: 70px; line-height: 17px;  }
+	.footer-bottom { height: 25px; line-height: 17px;  }
 	.footer-bottom .footer-nav { float: none; display: block; padding-bottom: 16px;  }
 	.footer-bottom  p.copy { float: none; display: block; clear: both; }
 	.footer-bottom .shell { padding-left: 20px; width: 748px; }
